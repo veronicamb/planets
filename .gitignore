@@ -1,2 +1,6 @@
 *.dat
 dummy/
+.Rproj.user
+.Rhistory
+.RData
+*.Rproj
